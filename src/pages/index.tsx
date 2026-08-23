@@ -94,7 +94,7 @@ export default function Home() {
         <meta name="author" content="Afra Nazeer" />
         <meta name="creator" content="Afra Nazeer" />
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
-        <meta name="google-site-verification" content="zCnU9OCk_fcqYpSCaeYzzbgpjBy7YOB7BXO3yIOZjMI" />
+        <meta name="google-site-verification" content="mpJWiyBIFNFl5vE-d4L0CGrpvNMwADbpVVNkY8ITL9U" />
         <meta name="theme-color" content="#f6f3ed" />
         <link rel="canonical" href={siteConfig.url} />
         <link rel="icon" href={`${siteConfig.basePath}/icon.svg`} type="image/svg+xml" />
