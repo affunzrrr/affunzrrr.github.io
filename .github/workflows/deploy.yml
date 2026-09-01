@@ -35,8 +35,8 @@ jobs:
 
       - name: Build static portfolio
         env:
-          NEXT_PUBLIC_SITE_URL: https://affunzrrr.github.io/portfolio
-          NEXT_PUBLIC_BASE_PATH: /portfolio
+          NEXT_PUBLIC_SITE_URL: https://affunzrrr.github.io
+          NEXT_PUBLIC_BASE_PATH: ""
         run: npm run build
 
       - name: Configure GitHub Pages
